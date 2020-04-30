@@ -1,0 +1,32 @@
+{
+  "name": "code-challenge-javascript-day-7",
+  "version": "1.0.0",
+  "description": "devc code challenge day 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevCbenin/code-challenge-javascript-day-7.git"
+  },
+  "keywords": [
+    "benin",
+    "code-challenge",
+    "devc",
+    "facebook",
+    "javascript",
+    "Foodchain",
+    "algorithm",
+    "challenge"
+  ],
+  "author": "damilare-sanusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevCbenin/code-challenge-javascript-day-7/issues"
+  },
+  "homepage": "https://github.com/DevCbenin/code-challenge-javascript-day-7#readme",
+  "dependencies": {
+    "jest": "^25.5.0"
+  }
+}
